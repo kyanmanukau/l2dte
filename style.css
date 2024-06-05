@@ -1,1 +1,6 @@
-body{color: red;}
+body{background-color:black;
+    color: red;}
+ul {
+list-style-type: none;
+
+}
